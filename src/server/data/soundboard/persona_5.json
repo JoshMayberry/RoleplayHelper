@@ -1,0 +1,979 @@
+[
+  {
+    "title": "Free Roam",
+    "children": [
+      {
+        "title": "Exploration (Day)",
+        "children": [
+          {
+            "title": "Wake Up, Get Up, Get Out There",
+            "url": "https://music.youtube.com/watch?v=7mx87gYF6ts&si=eHLcItnNeRzEdt55",
+            "useVolume": true,
+            "volume": 22,
+            "isLoop": true
+          },
+          {
+            "title": "Tokyo Daylight",
+            "url": "https://music.youtube.com/watch?v=GTesXj_27EE&si=0zDgKI2KwNMAjqtW",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Talk",
+            "url": "https://music.youtube.com/watch?v=c4rqD8BysHI&si=a1qbvV5aiV_dknsZ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Exploration (Night)",
+        "children": [
+          {
+            "title": "Phantom",
+            "url": "https://music.youtube.com/watch?v=I6vf4lfQazw&si=nd_5OPWfJAIS9kzp",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Tokyo Emergency",
+            "url": "https://music.youtube.com/watch?v=k8OFhyalA1s&si=k1WLlVGAVIrs4Cs7",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Palace Themes",
+        "children": [
+          {
+            "title": "King, Queen, and Slaves",
+            "url": "https://music.youtube.com/watch?v=_LHvBZtamGA&si=sYnADIWPg9__-cAj",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "King, Queen, and Slaves: Alternative Version",
+            "url": "https://music.youtube.com/watch?v=u4izKJsmXLA&si=5AwAlhv4XO-7yJp1",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Wicked Plan",
+            "url": "https://music.youtube.com/watch?v=zFvDCu_ZW_4&si=NVt9cTk8pVE4XS81",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Character / Emotional",
+        "children": [
+          {
+            "title": "New Beginning",
+            "url": "https://music.youtube.com/watch?v=D-sGM_TaPg4&si=6mUQ2iNKYVuEl2lA",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Whats Going On",
+            "url": "https://music.youtube.com/watch?v=WKRnLsUGHVs&si=xUOHXCf5P4WpSsCA",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Special Ambience",
+        "children": [
+          {
+            "title": "When Mother was There",
+            "url": "https://music.youtube.com/watch?v=-gWGNqGDAyA&si=azwEx-YGnWUOD0OJ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "When Mother was There: Alternate Version",
+            "url": "https://music.youtube.com/watch?v=9lSu-wLPBNQ&si=JMKUXuC-V1o1rwTB",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "The Whims of Fate (Instrumental)",
+            "url": "https://music.youtube.com/watch?v=1gWhM0K1sKc&si=Qdlbhdbl0BXHp41T",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Investigation / Infiltration",
+    "children": [
+      {
+        "title": "Chasing the Mark",
+        "children": [
+          {
+            "title": "Suspicion",
+            "url": "https://music.youtube.com/watch?v=n5f5018tK8I&si=zOLi0O2l4rztxAbJ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Disquiet",
+            "url": "https://music.youtube.com/watch?v=BonJPQPIe4w&si=xxgTSq-7JhSBIfrK",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Infiltration — Low Heat",
+        "children": [
+          {
+            "title": "Wicked Plan",
+            "url": "https://music.youtube.com/watch?v=zFvDCu_ZW_4&si=NVt9cTk8pVE4XS81",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Suspicious Person",
+            "url": "https://music.youtube.com/watch?v=M6vU7jSYaPY&si=S4km6_BOcxaVAPWq",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Into the Metaverse",
+            "url": "https://music.youtube.com/watch?v=Kj-6Mn9L3iQ&si=u0BT0ik3du94ZAd4",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Mementos",
+            "url": "https://music.youtube.com/watch?v=l_Jkz_ZC9Yc&si=l_Jzsur2T6Dvms5_",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Treading on Scorched Sand",
+            "url": "https://music.youtube.com/watch?v=nCu8J2boWIk&si=3Ih-Tx1cB4OM322g",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Infiltration — High Heat",
+        "children": [
+          {
+            "title": "Tension",
+            "url": "https://music.youtube.com/watch?v=_gyYxXL3D3I&si=_KSBnrEW5ECi2hvO",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "High Pressure",
+            "url": "https://music.youtube.com/watch?v=hPQSv4GNK5Y&si=Sd-TxPL4BgIWDBXf",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "RUN, Run, Run!",
+            "url": "https://music.youtube.com/watch?v=xFRmk9DmC4Q&si=hrCKldM7m_-IoadM",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Boss / Palace Heart",
+    "children": [
+      {
+        "title": "Price",
+        "children": [
+          {
+            "title": "Price",
+            "url": "https://music.youtube.com/watch?v=yG-_Zn648fw&si=phbaAnX5TwaYf4pJ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Price: Alternate Version",
+            "url": "https://music.youtube.com/watch?v=UIgvWSPD4Yk&si=3LcaBpjgOdXkhH-Q",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Theme Rooms",
+        "children": [
+          {
+            "title": "When Mother was There",
+            "url": "https://music.youtube.com/watch?v=-gWGNqGDAyA&si=azwEx-YGnWUOD0OJ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "When Mother was There: Alternate Version",
+            "url": "https://music.youtube.com/watch?v=9lSu-wLPBNQ&si=JMKUXuC-V1o1rwTB",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Keeper of Lust",
+            "url": "https://music.youtube.com/watch?v=QKunUv9-p6U&si=tU0jY6CxUr3wLnIK",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Ark",
+            "url": "https://music.youtube.com/watch?v=pBuu3JIP5tQ&si=rE_ye16zNLmDJY8P",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Collapse",
+        "children": [
+          {
+            "title": "Collapse of Lust",
+            "url": "https://music.youtube.com/watch?v=0TUp5E3SV4s&si=4E-P55Yi_Alrmh13",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Collapse of Wrath",
+            "url": "https://music.youtube.com/watch?v=dng7eh0o5KE&si=eX08hFclow7HpiDP",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Collapse of Pride",
+            "url": "https://music.youtube.com/watch?v=Ml1sz5JxJy4&si=KLeVgN-Efu_qmnKI",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Escape",
+        "children": [
+          {
+            "title": "Escape",
+            "url": "https://music.youtube.com/watch?v=BYN75fpCPA0&si=6RrZMK66QbyNhP2P",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Escape: Alternate Version",
+            "url": "https://music.youtube.com/watch?v=ETznHsXi9Ho&si=blBoDvgvD_LcMP-j",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Getaway & Arrest",
+            "url": "https://music.youtube.com/watch?v=6OVmw0MVJHU&si=CK6N7ru7L3Q8YOwL",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Getaway: Alternate Version",
+            "url": "https://music.youtube.com/watch?v=LKvNyyO_mtU&si=spH0VO6KcC_0BNrU",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Industrial Push",
+        "children": [
+          {
+            "title": "Sweatshop",
+            "url": "https://music.youtube.com/watch?v=_wibUKP9_Wk&si=2HC-F-cVDvoy8hdX",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Sweatshop: Alternate Vesion",
+            "url": "https://music.youtube.com/watch?v=ycfs2w8kkq4&si=ip9XbPEOkI-2_IN-",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Combat",
+    "children": [
+      {
+        "title": "Standard Fights",
+        "children": [
+          {
+            "title": "Last Surprise",
+            "url": "https://music.youtube.com/watch?v=lMY0CYwMS_E&si=G_hLnGK5CNBGojar",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Life Will Change",
+            "url": "https://music.youtube.com/watch?v=wPaCgNDwqqs&si=L1ay_Dn5KW3aieF4",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Awakening",
+            "url": "https://music.youtube.com/watch?v=qov0nB24_yQ&si=D7QAGkwy3fuoA-7K",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Willpower",
+            "url": "https://music.youtube.com/watch?v=Msq4a0d9rCk&si=YCiAg0pWY9MGcHGS",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Boss / Climax",
+        "children": [
+          {
+            "title": "Blooming Villan",
+            "url": "https://music.youtube.com/watch?v=6aShp3H7xiU&si=Q-mCFFHaOFHJmrZv",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Jaldabaoth",
+            "url": "https://music.youtube.com/watch?v=oP-sMzxQbyA&si=UERZnPhGd1MWfaRc",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Rivers in the Desert",
+            "url": "https://music.youtube.com/watch?v=0k87HrWBIiM&si=mmWQgVV3VZ6tmhYv",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Reveal",
+    "children": [
+      {
+        "title": "Interrogation",
+        "children": [
+          {
+            "title": "Interrogation Room",
+            "url": "https://music.youtube.com/watch?v=0rSj_qz7Hr0&si=Hyh0sWwSm26TasWs",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Recolection and Foreboding",
+            "url": "https://music.youtube.com/watch?v=4qhaLTt_KT4&si=ODGwtY1JNHF6Xlt6",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Meeting",
+            "url": "https://music.youtube.com/watch?v=r3gK0qETsRc&si=BDEZ-yH2N84ao057",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Metaverse Discovery",
+        "children": [
+          {
+            "title": "Into the Metaverse",
+            "url": "https://music.youtube.com/watch?v=Kj-6Mn9L3iQ&si=u0BT0ik3du94ZAd4",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Layer Cake",
+            "url": "https://music.youtube.com/watch?v=C4nTv-pVk0k&si=1_YZzPSM1GfcwKKG",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Villain Pressure",
+        "children": [
+          {
+            "title": "Blood of Villan",
+            "url": "https://music.youtube.com/watch?v=8XGYNz685Ng&si=Wzy_Gk8F5j3xSf0I",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Suspicious Person",
+            "url": "https://music.youtube.com/watch?v=M6vU7jSYaPY&si=S4km6_BOcxaVAPWq",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "High Pressure",
+            "url": "https://music.youtube.com/watch?v=hPQSv4GNK5Y&si=Sd-TxPL4BgIWDBXf",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Mind Games",
+        "children": [
+          {
+            "title": "The Spirit",
+            "url": "https://music.youtube.com/watch?v=XSGWKQVFWtAu4KzrM",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Planetarium",
+            "url": "https://music.youtube.com/watch?v=NCd0Fg461gs&si=k2sGH-Jz4P_V_s8c",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Trick",
+            "url": "https://music.youtube.com/watch?v=MDL5jEn9gtk&si=aFxbGGZIPGOkD1KI",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Dark Revelations",
+        "children": [
+          {
+            "title": "Mental Shutdown",
+            "url": "https://music.youtube.com/watch?v=OeTAlVyQ2wU&si=6kqAlkPmUve-Xgvr",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Betrayer",
+            "url": "https://music.youtube.com/watch?v=4hfA5TXL9GE&si=6yw9Lz3_u0nn6zoI",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Nothingness...?",
+            "url": "https://music.youtube.com/watch?v=-OgAwYxIN2Q&si=ZmqmHUnH8266Nvdq",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Showdown",
+        "children": [
+          {
+            "title": "Limitless Pride",
+            "url": "https://music.youtube.com/watch?v=fHOHEibIPFg&si=JzP9055gtVo3bHCK",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Desire",
+            "url": "https://music.youtube.com/watch?v=2_h7Q8I6kXg&si=MP9dl1EdEtmX8czw",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Confrontation",
+            "url": "https://music.youtube.com/watch?v=GZWdSEsGYwQ&si=ZotItiCq3fOZu12p",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Resolution",
+        "children": [
+          {
+            "title": "Rivers in the Desert",
+            "url": "https://music.youtube.com/watch?v=0k87HrWBIiM&si=mmWQgVV3VZ6tmhYv",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Freedom and Peace",
+            "url": "https://music.youtube.com/watch?v=L2m3oiX_wE4&si=fKv0WAfRvg5wVMFZ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Erosion",
+            "url": "https://music.youtube.com/watch?v=IdSlBF6UU_E&si=RIq2_-ZYv3FJKLms",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Calm",
+    "children": [
+      {
+        "title": "Lounge",
+        "children": [
+          {
+            "title": "Beneath the Mask",
+            "url": "https://music.youtube.com/watch?v=w7Cm74nDhac&si=RW0403n549smYZSW",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Beneath the Mask: Rain",
+            "url": "https://music.youtube.com/watch?v=mEpsyvKCV3k&si=XS_4tJ9iP06jzWdM",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Hymn of the Soul",
+            "url": "https://music.youtube.com/watch?v=uXR27io2dp4&si=wX1V1mOq__EGnSgT",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Bar Crossroads",
+            "url": "https://music.youtube.com/watch?v=Wz1XGQ42Eu8&si=kyikPEL4zigHGflW",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Reflective",
+        "children": [
+          {
+            "title": "Confession",
+            "url": "https://music.youtube.com/watch?v=ibsj9WX80zI&si=RWr4O-QkZYorKbRN",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Confession (Piano)",
+            "url": "https://music.youtube.com/watch?v=kheC1aM1lKo&si=W34sBhaOWiS6bhxc",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Regret",
+            "url": "https://music.youtube.com/watch?v=C9ad-dc4d-Q&si=LSYj4eiLrK0K4A21",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Endless Days",
+            "url": "https://music.youtube.com/watch?v=kJS2mf_zBf8&si=9176xPH7-bGIViZ8",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Social",
+        "children": [
+          {
+            "title": "My Homie",
+            "url": "https://music.youtube.com/watch?v=nuq-Zyqigic&si=UYvWPTVW6uzWbMET",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "A Woman",
+            "url": "https://music.youtube.com/watch?v=RcpVVwjqEtA&si=OuVYVtFSoBCjtHgT",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "A Woman: Alternate Version",
+            "url": "https://music.youtube.com/watch?v=6ZHtNIvfzhg&si=8tFeu6zPCQNJxeKP",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Alright",
+            "url": "https://music.youtube.com/watch?v=E0tbxhHM1t8&si=vVvDpnoxMFXTqJCo",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Alright: Elp",
+            "url": "https://music.youtube.com/watch?v=0NgiyASj6qs&si=nIgxEdg8iiYHrw3M",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Home / Rest",
+        "children": [
+          {
+            "title": "Mementos",
+            "url": "https://music.youtube.com/watch?v=l_Jkz_ZC9Yc&si=l_Jzsur2T6Dvms5_",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Have a Short Rest",
+            "url": "https://music.youtube.com/watch?v=W0ipWoT2Els&si=zOqTdhQmJhRdihFk",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Sunset Bridge",
+            "url": "https://music.youtube.com/watch?v=-1VKJB3GAD0&si=awBo8EAkqifsBwnV",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Slice of Life",
+        "children": [
+          {
+            "title": "Days of Sisters",
+            "url": "https://music.youtube.com/watch?v=0A8Up2VNQIE&si=eNvMcclHyouZlTg3",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Memories of Summer",
+            "url": "https://music.youtube.com/watch?v=x4IAqdXs-zU&si=qrCOS7soJI-IX6UF",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Life Goes On",
+            "url": "https://music.youtube.com/watch?v=CgxbVc4SiI4&si=3KPIx5egZubGxWN-",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Special Themes",
+        "children": [
+          {
+            "title": "Butterfly Kiss",
+            "url": "https://music.youtube.com/watch?v=U7OuHvwo62Y&si=ideUOcQUQ9OpaPPW",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Treading on Scorched Sand",
+            "url": "https://music.youtube.com/watch?v=nCu8J2boWIk&si=3Ih-Tx1cB4OM322g",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Allycat",
+            "url": "https://music.youtube.com/watch?v=T-D-KzkSQEE&si=PY2y8bW1hBYtytpG",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Hawaii",
+            "url": "https://music.youtube.com/watch?v=FLtfHWgRHDM&si=SlQjGJjddOv85LLt",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Sweet",
+            "url": "https://music.youtube.com/watch?v=4Gh6Q4LEF-M&si=83MmH1Go27Y-66TV",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Dramatic Calm",
+        "children": [
+          {
+            "title": "Time to Repent",
+            "url": "https://music.youtube.com/watch?v=J6jh_OaIcEY&si=MWCEX8mWi_ZWFUXr",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Swear to My Bones",
+            "url": "https://music.youtube.com/watch?v=IVOUYIr1V5I&si=0uRsuCR-8kAve8-l",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Ending Theme",
+            "url": "https://music.youtube.com/watch?v=Y1nu5wOO_3c&si=F2rwPEqEBkUuBmEU",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Ending Theme: Piano",
+            "url": "https://music.youtube.com/watch?v=usY03llq-J4&si=qrdPauQVdKfjhu38",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Shop / Quirky",
+        "children": [
+          {
+            "title": "Break it Down",
+            "url": "",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Break it Down: Elp",
+            "url": "https://music.youtube.com/watch?v=q4xe4maIqmQ&si=C9frE9u7B40mc_Th",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Break it Down",
+            "url": "https://music.youtube.com/watch?v=53p5Z08xDFw&si=mIph8f3Z0QZdLtOc",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "So Boring",
+            "url": "https://music.youtube.com/watch?v=jbgzVIAdZBE&si=QyJnnQpYsWyrZsew",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Accident on Air",
+            "url": "https://music.youtube.com/watch?v=BLDvtws7u-c&si=JZM-AFQNTkpIA5yT",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Quirky (Officials / Media)",
+        "children": [
+          {
+            "title": "Impromptu for the Next Prime Minister",
+            "url": "https://music.youtube.com/watch?v=W36HYR84i10&si=I_2henaWfz7rktNM",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fun",
+    "children": [
+      {
+        "title": "Shops & Minigames",
+        "children": [
+          {
+            "title": "Big Burger March",
+            "url": "https://music.youtube.com/watch?v=5JFsW6TFJKU&si=oMX534Z1Lw8mwb14",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Tripple Seven",
+            "url": "https://music.youtube.com/watch?v=t46v8k2H3MU&si=hytFpRQ_D7EHmCP1",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Crane Game",
+            "url": "https://music.youtube.com/watch?v=wqHC1QzOZuo&si=GX1eoK7io_Dqt7Ar",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Home Electronics Store",
+            "url": "https://music.youtube.com/watch?v=yr1PXxEcc6Q&si=CP__COj2f7lPJ0sU",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      },
+      {
+        "title": "Outings & Gags",
+        "children": [
+          {
+            "title": "Welcome Home, Master!",
+            "url": "https://music.youtube.com/watch?v=beoh3G3YHNk&si=J1O7e0K9GQGB7LNs",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Destinyland",
+            "url": "https://music.youtube.com/watch?v=vLSD_wG5lfM&si=tvqyA9jUcWGOUXjf",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Tanaka's Shady Comodities",
+            "url": "https://music.youtube.com/watch?v=cWndjyualDM&si=NCJ5olLF3GMx6U-B",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Success / Aftermath",
+    "children": [
+      {
+        "title": "Aftermath",
+        "children": [
+          {
+            "title": "Triumph",
+            "url": "https://music.youtube.com/watch?v=b0mrojS2WBM&si=Q9mkZ5vMuk4NPZn5",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Our Beginning",
+            "url": "https://music.youtube.com/watch?v=C4_GRMYF9HI&si=ZcMH5fMo-mOVfw1F",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "New Beginning",
+            "url": "https://music.youtube.com/watch?v=D-sGM_TaPg4&si=6mUQ2iNKYVuEl2lA",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Test",
+    "children": []
+  }
+]

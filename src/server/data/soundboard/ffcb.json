@@ -1,0 +1,553 @@
+[
+  {
+    "title": "Towns",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Capital City",
+            "url": "https://music.youtube.com/watch?v=3Om8b2KIhbI&si=84TCNEXeBets0tud",
+            "useVolume": true,
+            "volume": 17,
+            "isLoop": false
+          },
+          {
+            "title": "Bridge City",
+            "url": "https://music.youtube.com/watch?v=FKd-VIAAKgQ&si=kBNq53UF-DvO-7P-",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Veo Lu Sluce",
+            "url": "https://music.youtube.com/watch?v=f266KXzVARc&si=Qo6gDV4fqTUiNYGT",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NPCs",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "High Commander",
+            "url": "https://music.youtube.com/watch?v=bWt8JckYwH4&si=iz8r6ih_GduzIq_h",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Belle Handles it solo",
+            "url": "https://music.youtube.com/watch?v=IyZTb_tTVNY&si=eqOPFr0BwG0Dxq1T",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Tinkerer",
+            "url": "https://music.youtube.com/watch?v=KAkjTMQ3DDM&si=LNuMipn_9Dkgxt8t",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Snarky Tough Guy",
+            "url": "https://music.youtube.com/watch?v=HcMxFBFUM04&si=qzSFyytFhnkPS2IX",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Environments",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Let highlands",
+            "url": "https://music.youtube.com/watch?v=rvT9X89nNZM&si=eLfG3f0OrpM4XLGb",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Eastern Wildlands",
+            "url": "https://music.youtube.com/watch?v=N8lPl-eqrBM&si=AKNaLJWi7BjNfh_7",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Moonless Starry Night",
+            "url": "https://music.youtube.com/watch?v=KSH_0S7v2Sw&si=cdkm-RK5I4FuCOnA",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Vieyard",
+            "url": "https://music.youtube.com/watch?v=TlwYp9ps_mo&si=OeRR64Q7Ip9MpZ20",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Prison Sands",
+            "url": "https://music.youtube.com/watch?v=X6L3zsG4toc&si=lhDtxHNsKCL7bI6-",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Silkie Guild",
+            "url": "https://music.youtube.com/watch?v=dYOPL1xs01E&si=7qCKAR-U7S3xyfo7",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Costa Faguita",
+            "url": "https://music.youtube.com/watch?v=0IC9Mzhxmh4&si=PEdHKb-DuAqBlgpz",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Snowfields",
+            "url": "https://music.youtube.com/watch?v=d7sxLTsfsK8&si=Vo-6YxBQP1YjGbYX",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Rivelgauge Monastary",
+            "url": "https://music.youtube.com/watch?v=H9agE8AYsak&si=aDZDoku0mOWBjLnk",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Althea's Waltz",
+            "url": "https://music.youtube.com/watch?v=OaMjLLHUFhw&si=6UWpbhpl-fm1cTS1",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Infultration",
+            "url": "https://music.youtube.com/watch?v=EZhALr4Gpbo&si=XugRY831a4UjCqAR",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Moogle Woods",
+            "url": "https://music.youtube.com/watch?v=ZSTIebYnyqU&si=rTBd_pzNTLTwZPMp",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Travel",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Crystal Bearer Ramble",
+            "url": "https://music.youtube.com/watch?v=tv-DaE4hjpY&si=i49vVExoeVGoI1y4",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Surfin Lyle",
+            "url": "https://music.youtube.com/watch?v=4SNC5RYZqHk&si=bqxnYrgB14N5ep_-",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Trouble Up Ahead",
+            "url": "https://music.youtube.com/watch?v=QDuFb2RQp18&si=_A2N_0j4e9jYpXfY",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Crystal Locomotive",
+            "url": "https://music.youtube.com/watch?v=viKlH1ltyG4&si=njuGZxKQfbk6Q8Y4",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Small battle",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "An unknown enemy",
+            "url": "https://music.youtube.com/watch?v=7HynIjVloyM&si=BDesExqgTaQTY5dK",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Awakened Beast",
+            "url": "https://music.youtube.com/watch?v=49j6Z7QmVT0&si=15AP2fqxknz1AiiB",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Freezing Heat",
+            "url": "https://music.youtube.com/watch?v=NjfyUfyJ5xA&si=aYRBOXHP8Fe8SrVA",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Blockade Buster",
+            "url": "https://music.youtube.com/watch?v=N3FuLT44aVI&si=nhnQYSBodQ7pz0t6",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Narrow Escape",
+            "url": "https://music.youtube.com/watch?v=I_o88BeCsdI&si=gp-PDHSb5d4sMp6x",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Destiny",
+            "url": "https://music.youtube.com/watch?v=ytx0NxwvUXI&si=1yag0JNq-T_bbCpn",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Games",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Dig! Dig! Dig!",
+            "url": "https://music.youtube.com/watch?v=wqTBk5WAD34&si=oRCEUtOql4LNvpLi",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Girls, we have to win",
+            "url": "https://music.youtube.com/watch?v=awvPLExEhGA&si=HVUadpgdnShJnL6-",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Kickerball",
+            "url": "https://music.youtube.com/watch?v=4GOeZB4OMtU&si=STtK7axRsDDU4GBC",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Hidden Tales of adventure",
+            "url": "https://music.youtube.com/watch?v=ODbNkc4Wg4A&si=FGzBZeooewfdFWwN",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ambush",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Zu Ambush ～ Sky Dive",
+            "url": "https://music.youtube.com/watch?v=w-GB5NhHQns&si=vmegctFyWTvJguBS",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Collapsed Expressway (FF7 Remake)",
+            "url": "https://www.youtube.com/watch?v=ISEQF8rsMXo",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Dreaming of Twilight (FFCC)",
+            "url": "https://www.youtube.com/watch?v=OqznLrZXNlI",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Existence and Oblivion (Crystal Bearers)",
+            "url": "https://www.youtube.com/watch?v=U6mx0Rnno34",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Let the Battles Begin! – Extended (FF7 Remake)",
+            "url": "https://www.youtube.com/watch?v=s5NxP6tjm5o",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Rattle & Farmhouses",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Ruins",
+            "url": "https://music.youtube.com/watch?v=hxAcEWuSIBM&si=ApjxpL6oZIVWt58d",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Chase the Hostile",
+            "url": "https://music.youtube.com/watch?v=V8lC2pgW_tA&si=qNZ4MW5ls4WIe3SN",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "The lost tribe",
+            "url": "https://music.youtube.com/watch?v=SLecewPAF34&si=aOL7BaKSUi6GALUZ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Hide and Seek",
+            "url": "https://music.youtube.com/watch?v=sWGcU1CIayA&si=aVQV9VlMCcTlRjkC",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Existance and Obliveon",
+            "url": "https://music.youtube.com/watch?v=_DEveDpKA_Q&si=Y0njphTYdXN7baGi",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Areal Prison",
+            "url": "https://music.youtube.com/watch?v=f-DCtm5Vdxg&si=iKYdnngEl4M-H4MC",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "For the Kingdom",
+            "url": "https://music.youtube.com/watch?v=FJwI5Re6j6Y&si=mSItZxBaH8HRWLub",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Oblivion Village / Tida (FFCC Remastered)",
+            "url": "https://www.youtube.com/watch?v=3xZ_13DZDSs",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cradlelace Pond",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "The taint of power",
+            "url": "https://music.youtube.com/watch?v=EwFs9Wc-37U&si=RSeIYlCObVVDx40K",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "An unlikely guest",
+            "url": "https://music.youtube.com/watch?v=1z2WHPjr3mg&si=JuyDDsbHbK8fQZAD",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Miasma Pit (FFCC Remastered)",
+            "url": "https://www.youtube.com/watch?v=fGoEeIVZPsI",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Frozen Sluice (FFCC Remastered)",
+            "url": "https://www.youtube.com/watch?v=F6Uy_V7QrkY",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Twilight in Dreamland (FFCC)",
+            "url": "https://www.youtube.com/watch?v=c8XLVPZopmU",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Boss Battle — The Amalgamation",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Indominatable",
+            "url": "https://music.youtube.com/watch?v=copl-P5nKmo&si=G-HR0sbF8FW9XOVs",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "The Final Showdown",
+            "url": "https://music.youtube.com/watch?v=YXIPRQbAC8s&si=z6ApG3rR6k5uopDQ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Raging Ambition",
+            "url": "https://music.youtube.com/watch?v=BjMShIViODE&si=plOOArvYTn71AULZ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "The World is Changing",
+            "url": "https://music.youtube.com/watch?v=6F1-KxW9Qbg&si=f0hzTHy4CNEjg77D",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Bahamut strikes",
+            "url": "https://music.youtube.com/watch?v=7DCIM_9RNcQ&si=lPNXzdWn4z3p53uE",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Bahamut Rage",
+            "url": "https://music.youtube.com/watch?v=Ul_OGXpcX5c&si=ow_b0xs7AzlegA6F",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "This is the end for you",
+            "url": "https://music.youtube.com/watch?v=avoJnm3AmLY&si=wLo2XjS81F8IW8Bd",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Epilogue & Return",
+    "children": [
+      {
+        "title": "Main",
+        "children": [
+          {
+            "title": "Moment of Repose",
+            "url": "https://music.youtube.com/watch?v=wfogm-wlbAg&si=82fOUFSVU7kz4D-S",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Quiet Lament",
+            "url": "https://music.youtube.com/watch?v=gW1o4Y6VOvw&si=YXIouhNWv1zA4iCj",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Ephemeron",
+            "url": "https://music.youtube.com/watch?v=bNfbUqbGILw&si=alKWGhWb73Ty6q6L",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Echo of Memories (FFCC)",
+            "url": "https://www.youtube.com/watch?v=2S65Bgf2TPQ",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          },
+          {
+            "title": "Dreaming of Twilight (FFCC)",
+            "url": "https://www.youtube.com/watch?v=OqznLrZXNlI",
+            "useVolume": false,
+            "volume": 100,
+            "isLoop": false
+          }
+        ]
+      }
+    ]
+  }
+]
