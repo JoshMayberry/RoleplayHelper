@@ -1,5 +1,6 @@
 import { defineComponent } from "vue";
 import { useMainStore } from "../stores/mainStore";
+import { useAppStore } from "@shared/stores/app";
 import { Mode, EditMode, User, RSTransform } from "../types";
 import { Snapshot } from "@features/investigation-web/types/snapshot";
 
@@ -7,6 +8,7 @@ export const CommonMixin = defineComponent({
 	data() {
 		return {
 			store: useMainStore(),
+			appStore: useAppStore(),
 		};
 	},
 	computed: {
@@ -41,13 +43,16 @@ export const CommonMixin = defineComponent({
 			return (this.currentEditMode == "link-lasso") || (this.currentEditMode == "link-cutter");
 		},
 		currentEditMode_isAdding(): boolean {
-			return  (this.currentEditMode === "add-free-node") || (this.currentEditMode === "add-snap-node") || (this.currentEditMode === "add-track") || (this.currentEditMode === "add-calc-group") ||(this.currentEditMode === "add-link");
+			return  (this.currentEditMode === "add-free-node") || (this.currentEditMode === "add-snap-node") || (this.currentEditMode === "add-track") || (this.currentEditMode === "add-calculated-group") ||(this.currentEditMode === "add-link");
 		},
 		currentEditMode_isDragging(): boolean {
 			return  (this.currentEditMode === "drag-free-node") || (this.currentEditMode === "drag-snap-node") || (this.currentEditMode === "drag-track") || (this.currentEditMode === "drag-track-end");
 		},
 		currentEditMode_isDraggingNode(): boolean {
 			return (this.currentEditMode === "drag-free-node") || (this.currentEditMode === "drag-snap-node");
+		},
+		currentEditMode_isEditing(): boolean {
+			return  (this.currentEditMode === "edit-selected-node") || (this.currentEditMode === "edit-selected-link") || (this.currentEditMode === "edit-selected-track");
 		},
 	},
 	methods: {

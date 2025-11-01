@@ -1,5 +1,5 @@
 import { defineStore } from "pinia";
-import { EditMode, Mode, Point, RSTransform, User } from "@features/investigation-web/types"
+import { EditMode, HelpReactionType, HelpType, Mode, Point, RSTransform, User } from "@features/investigation-web/types"
 import { Snapshot } from "../types/snapshot";
 import { NodeAny } from "../types/node";
 import { LinkAny } from "../types/links";
@@ -18,6 +18,16 @@ export const useMainStore = defineStore("investigation-web", {
 		rsTransform: { k:1, x:0, y:0 } as RSTransform,
 		
 		settings: {
+			help: {
+				left: {
+					text: "current-mode" as HelpType,
+					otherOnChange: "update" as HelpReactionType,
+				},
+				right: {
+					text: "current-sub-mode" as HelpType,
+					otherOnChange: "none" as HelpReactionType,
+				},
+			},
 			gridOverlay: {
 				enabled: true,
 				alwaysVisible: false,
@@ -41,7 +51,6 @@ export const useMainStore = defineStore("investigation-web", {
 			link: undefined as LinkAny | undefined,
 			track: undefined as TrackAny | undefined,
 		},
-
 		drag: {
 			isValid: false,
 			isDragging: false as boolean | undefined, // Use undefiend for "maybe"
@@ -126,6 +135,14 @@ export const useMainStore = defineStore("investigation-web", {
 			this.isDirty = true;
 
 			return true;
-		}
+		},
+		updateSelectedNode<K extends keyof NodeAny>(key: K, value: NodeAny[K]) {
+			if (!this.selected.node) {
+				throw new Error("No selected node");
+			}
+			
+			this.selected.node[key] = value
+			this.isDirty = true
+		},
 	},
 });

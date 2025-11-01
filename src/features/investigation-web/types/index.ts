@@ -16,6 +16,7 @@ export type EditMode =
   | "add-snap-node"
   | "add-link"
   | "add-track"
+  | "add-calculated-group"
   | "place-stashed-node"
   | "place-stashed-snap-node"
   | "drag-free-node"
@@ -23,12 +24,16 @@ export type EditMode =
   | "drag-track"
   | "drag-track-end"
   | "edit-selected-node"
+  | "edit-selected-link"
+  | "edit-selected-track"
   | "relink"
-  | "add-calc-group"
 	| "link-lasso"
 	| "link-cutter";
 
-export type GhostMode = "none"|"drag-node"|"add-free"|"place-staged";
+export type GhostMode = "none" | "drag-node" | "add-free" | "place-staged";
+
+export type HelpType = "none" | "current-mode" | "current-sub-mode";
+export type HelpReactionType = "none" | "update" | "clear";
 
 export interface RSTransform { k:number; x:number; y:number; }
 

@@ -47,7 +47,7 @@ export const DragMixin = defineComponent({
 				this.currentEditMode = "drag-track-end";
       	window.addEventListener("pointerup", this.onPointerUp_drag, { once:true }); // Let this call one more time
 			} else {
-				this.currentEditMode = "none";
+				this.currentEditMode = "edit-selected-node";
 				this.store.dragEnd();
 			}
 
@@ -58,6 +58,7 @@ export const DragMixin = defineComponent({
 
 				if (!this.wasSelectedAtPointerDown) {
 					this.store.selected.node = undefined;
+					this.currentEditMode = "none";
 				}
 			}
 		},

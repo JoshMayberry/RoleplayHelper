@@ -21,6 +21,7 @@
 </template>
 
 <script lang="ts">
+import { useAppStore } from "@shared/stores/app";
 import AppFooter from "@app/components/layout/AppFooter.vue"
 import AppHeader from "@app/components/layout/AppHeader.vue"
 import SettingsPanel from "@app/components/layout/SettingsPanel.vue"
@@ -30,7 +31,15 @@ export default {
 	name: "App",
 	components: { AppHeader, AppFooter, SettingsPanel, PlayerDrawer },
 	data() {
-		return { openAside: "" as "settings" | "player" | ""  }
+		return {
+			openAside: "" as "settings" | "player" | "",
+			appStore: useAppStore(),
+		};
+	},
+	watch: {
+		$route: { immediate: true, deep: true, handler() {
+			this.appStore.clearHelp()
+		}}
 	},
 	computed: {
 		isSettingsOpen: {
@@ -48,8 +57,8 @@ export default {
 			set(newValue: boolean) {
 				this.openAside = newValue ? "player" : "";
 			},
-		}
-	}
+		},
+	},
 }
 </script>
 
@@ -62,5 +71,13 @@ export default {
 	& > * {
 		flex: 1;
 	}
+}
+
+/* Let the label be readble with text behind it. */
+.v-textarea .v-field__input {
+    flex: 1 1 auto;
+    outline: none;
+    -webkit-mask-image: linear-gradient(to bottom,transparent,transparent calc(var(--v-field-padding-top, 0) + var(--v-input-padding-top, 0) - 6px),black calc(var(--v-field-padding-top, 0) + var(--v-input-padding-top, 0) + 4px)),linear-gradient(to right,transparent,transparent calc(100% - var(--v-textarea-scroll-bar-width, 16px)),black calc(100% - var(--v-textarea-scroll-bar-width, 16px)));
+    mask-image: linear-gradient(to bottom,transparent,transparent calc(var(--v-field-padding-top, 0) + var(--v-input-padding-top, 0) - 6px),black calc(var(--v-field-padding-top, 0) + var(--v-input-padding-top, 0) + 4px)),linear-gradient(to right,transparent,transparent calc(100% - var(--v-textarea-scroll-bar-width, 16px)),black calc(100% - var(--v-textarea-scroll-bar-width, 16px)));
 }
 </style>

@@ -1,51 +1,34 @@
 <template>
 	<v-footer app height="40">
-		<a
-			v-for="item in items"
-			:key="item.title"
-			class="d-inline-block mx-2 social-link"
-			:href="item.href"
-			rel="noopener noreferrer"
-			target="_blank"
-			:title="item.title"
-		>
-			<v-icon :icon="item.icon" :size="item.icon === '$vuetify' ? 24 : 16" />
-		</a>
-
-		<div class="text-caption text-disabled" style="position: absolute; right: 16px">
-			&copy; 2016-{{ new Date().getFullYear() }}
-			<span class="d-none d-sm-inline-block">Vuetify, LLC</span>
-			—
-			<a
-				class="text-decoration-none on-surface"
-				href="https://vuetifyjs.com/about/licensing/"
-				rel="noopener noreferrer"
-				target="_blank"
-			>
-				MIT License
-			</a>
+		<div class="text-caption text-disabled">
+			{{ helpInfoLeft }}
+		</div>
+		<v-spacer />
+		<div class="text-caption text-disabled">
+			{{ helpInfoRight }}
 		</div>
 	</v-footer>
 </template>
 
-<script setup lang="ts">
-const items = [
-	{
-		title: "Vuetify Documentation",
-		icon: `$vuetify`,
-		href: "https://vuetifyjs.com/",
+<script lang="ts">
+import { useAppStore } from "@shared/stores/app";
+import { defineComponent } from "vue";
+export default defineComponent({
+	name: "AppFooter",
+	data() {
+		return {
+			appStore: useAppStore(),
+		}
 	},
-	{
-		title: "Vuetify Support",
-		icon: "mdi-shield-star-outline",
-		href: "https://support.vuetifyjs.com/",
+  computed: {
+    helpInfoLeft() {
+			return this.appStore.helpInfoLeft;
+		},
+    helpInfoRight() {
+			return this.appStore.helpInfoRight;
+		},
 	},
-	{
-		title: "Vuetify Reddit",
-		icon: `mdi-reddit`,
-		href: "https://reddit.com/r/vuetifyjs",
-	},
-];
+})
 </script>
 
 <style scoped lang="scss">

@@ -14,7 +14,7 @@
 			<Drawer
 				:drawer="{ icon: 'mdi-pencil', label: 'Edit', extra: { mode: 'edit' }}"
 			>
-				<p>TODO</p>
+				<EditWebItem/>
 			</Drawer>
 			<Drawer
 				:drawer="{ icon: 'mdi-eye', label: 'Discovery', extra: { mode: 'discovery' }}"
@@ -67,18 +67,73 @@ import { DrawerConfig } from "@shared/types";
 import { CommonMixin } from "../mixins/commonMixin";
 import { LoadFilesMixin } from "../mixins/InvestigationWebPage/loadFilesMixin";
 import InvestigationWeb from "../components/InvestigationWeb.vue";
+import EditWebItem from "../components/EditWebItem.vue";
+import { HelpType } from "../types";
 
 export default {
 	name: "InvestigatioNWebPage",
-	components: { Dresser, Drawer, InvestigationWeb },
+	components: { Dresser, Drawer, InvestigationWeb, EditWebItem },
 	mixins: [LoadFilesMixin, CommonMixin],
 	data() {
 		return {
 		};
 	},
+	mounted() {
+		this.updateHelpLeft();
+		this.updateHelpRight();
+	},
+	watch: {
+		currentMode(newValue: string) {
+			this.updateHelpLeft();
+		},
+		currentEditMode(newValue: string) {
+			this.updateHelpRight();
+		},
+	},
 	methods: {
 		onLeftDrawerChanged({ index, config }: { index: number, config: DrawerConfig }) {
 			this.currentMode = config?.extra?.mode || "view";
+		},
+		updateHelpLeft() {
+			this.appStore.helpInfoLeft = this.getHelpText(this.store.settings.help.left.text);
+			switch (this.store.settings.help.left.otherOnChange) {
+				case "clear":
+					this.appStore.helpInfoRight = "";
+					break;
+				case "update":
+					this.appStore.helpInfoRight = this.getHelpText(this.store.settings.help.right.text);
+					break;
+			}
+		},
+		updateHelpRight() {
+			this.appStore.helpInfoRight = this.getHelpText(this.store.settings.help.right.text);
+			switch (this.store.settings.help.right.otherOnChange) {
+				case "clear":
+					this.appStore.helpInfoLeft = "";
+					break;
+				case "update":
+					this.appStore.helpInfoLeft = this.getHelpText(this.store.settings.help.left.text);
+					break;
+			}
+		},
+		getHelpText(kind: HelpType): string {
+			switch (kind) {
+				case "none":
+					return "";
+
+				case "current-mode": 
+					return `Current Mode: ${this.currentMode}`;
+
+				case "current-sub-mode":
+					switch (this.currentMode) {
+						case "edit":
+							return `Current Edit Mode: ${this.currentEditMode}`;
+						default:
+							return "";
+					}
+			}
+
+			throw new Error(`Unknown help type '${kind}'`);
 		},
 	},
 };
